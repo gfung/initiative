@@ -1,0 +1,174 @@
+demon encounter
+-1d3 vrocks7
+demon encounter
+-1d4 barlguras
+madness
+-short term madness
+disease
+-sewer plague
+disease
+-zuggtmoy spore
+
+
+battle aftermath
+-dead purple worm
+-1d3 black puddings
+poisoned npcs
+spoiled supplies
+creature encounter
+madness
+-short term madness
+
+disease
+-cackle fever
+disease
+-zuggtmoy spores
+spoiled supplies
+battle aftermath
+-2d4 dead kuo-toa
+-1d4 carrion crawlers
+disease
+-sewer plague
+
+battle 
+-3d8 dead giant fire beetles, dead glands
+-otyugh
+discipline problem
+-brawl or outbreak of violence
+madness
+-short term madness
+disease
+-sight rot
+demon encounter
+-Juiblex
+poisoned npcs
+
+creature encounter
+battle aftermath
+-d4 dead drow, d4 -1 giant lizard
+-1d4 carrion crawlers
+discipline problem
+-theft or dispute over spoils
+creature encounter
+vanishing npcs
+
+poisoned npcs
+battle aftermath
+-2d4 dead gricks
+-1d4 carrion crawlers
+spoiled supplies
+creature encounter
+discipline problem
+-argument, 50% attract enemies
+
+spoiled supplies
+creature encounter
+disease
+-sewer plague
+demon encounter
+-1d2 hezrous
+creature encounter
+
+spoiled supplies
+vanishing npcs
+discipline problem
+-brawl or outbreak of violence
+vanishing npcs
+vanishing npcs
+
+spoiled supplies
+spoiled supplies
+battle aftermath
+-3d8 dead giant fire beetles, dead glands
+-1d4 carrion crawlers
+spoiled supplies
+madness
+-short term madness
+
+battle aftermath
+-3d8 dead giant fire beetles, dead glands
+-1d4 carrion crawlers
+spoiled supplies
+demon encounter
+-1d4 barlguras
+madness
+-short term madness
+poisoned npcs
+
+poisoned npcs
+demon encounter
+-1d4 chasmes
+discipline problem
+-theft or dispute over spoils
+vanishing npcs
+discipline problem
+-argument, 50% attract enemies
+
+creature encounter
+battle aftermath
+-d4 dead drow, d4 -1 giant lizard
+-1d3 black puddings
+demon encounter
+-1d4 chasmes
+madness
+-indefinite madness
+vanishing npcs
+
+vanishing npcs
+creature encounter
+demon encounter
+-1d4 shadow demons
+demon encounter
+-1d3 vrocks
+spoiled supplies
+
+demon encounter
+-1d4 chasmes
+creature encounter
+vanishing npcs
+creature encounter
+demon encounter
+-Juiblex
+
+spoiled supplies
+creature encounter
+vanishing npc
+demon encounter
+-1d4 shadow demons
+spoiled supplies
+
+discipline problem
+-argument, 50% attract enemies
+battle aftermath
+-2d4 dead gricks
+-1d4 carrion crawlers
+vanishing npc
+demon encounter
+-1d3 vrocks
+creature encounter
+
+disease
+-sight rot
+poisoned npcs
+demon encounter
+-1d4 barlguras
+discipline problem
+-brawl or outbreak of violence
+battle aftermath
+-3d8 dead giant fire beetles, dead glands
+-1d6 gnolls 1d6 hyenas
+
+poisoned npcs
+creature encounter
+spoiled supplies
+demon encounter
+-Juiblex
+poisoned npcs
+
+demon encounter
+-1d3 vrocks
+creature encounter
+poisoned npcs
+creature encounter
+disease
+-cackle fever
