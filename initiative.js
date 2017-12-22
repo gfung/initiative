@@ -21,7 +21,7 @@ function sort() {
  * @param {string} notes 
  */
 function addtoinit(name, number, notes) {
-    order.push({ name: name, number: number, notes: notes })
+    order.push({ name: name, number: parseInt(number), notes: notes })
     display()
 }
 
