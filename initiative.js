@@ -6,8 +6,8 @@ let order = [];
  */
 function sort() {
     order.sort((a, b) => {
-        if (a.number > b.number) { return 1; }
-        if (a.number < b.number) { return -1; }
+        if (a.number > b.number) { return -1; }
+        if (a.number < b.number) { return 1; }
         return 0;
     })
     display()
